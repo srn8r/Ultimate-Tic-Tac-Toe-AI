@@ -1,0 +1,17 @@
+# Build output
+build/
+bin/
+obj/
+*.o
+*.exe
+
+# Course files, not redistributed (see README)
+libUTTTLib.a
+*.dll
+
+# IDE
+.vscode/
+.idea/
+*.cbp
+*.depend
+*.layout
